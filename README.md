@@ -2,7 +2,7 @@
 
 ## 🚀 Getting Started
 
-After cloning this repository, follow these steps to set up the environment:
+Setting up the environment:
 
 ---
 
