@@ -36,7 +36,7 @@ cd ../frontend
 npm install
 
 # Start development server
-npm start
+npm.cmd run dev
 
 
 #pulling the data files
