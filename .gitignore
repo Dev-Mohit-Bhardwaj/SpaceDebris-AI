@@ -1,0 +1,13 @@
+# Backend
+.venv/
+
+# Frontend
+node_modules/
+
+# Data (optional if tracked with Git LFS)
+*.csv
+*.zip
+*.json
+
+# Logs
+*.log
